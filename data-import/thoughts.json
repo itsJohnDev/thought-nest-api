@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Neighborhood Tool Lending Hub",
+    "summary": "Borrow tools from nearby people instead of buying.",
+    "description": "A platform where homeowners and hobbyists can lend or rent out tools to neighbors. Users can browse available drills, ladders, gardening equipment, and more, reducing unnecessary purchases and promoting community sharing. Includes deposits, reviews, and pickup scheduling.",
+    "tags": ["sharing economy", "community", "tools"],
+    "createdAt": "2025-05-01T10:15:00.000Z"
+  },
+  {
+    "title": "Study Session Matchmaker",
+    "summary": "Find study partners based on subject and schedule.",
+    "description": "Students can create profiles with subjects they study, preferred learning styles, and availability. The platform matches users with compatible study groups or one-on-one partners. Includes focus timers, virtual rooms, and progress tracking.",
+    "tags": ["education", "students", "productivity"],
+    "createdAt": "2025-05-02T09:20:00.000Z"
+  },
+  {
+    "title": "Smart Queue for Local Clinics",
+    "summary": "Reduce waiting time through virtual queuing.",
+    "description": "Patients join clinic queues remotely through a mobile app and receive estimated wait times and notifications when their turn approaches. Clinics gain better crowd management and patients spend less time physically waiting.",
+    "tags": ["healthcare", "queue", "local"],
+    "createdAt": "2025-05-03T08:30:00.000Z"
+  },
+  {
+    "title": "Recipe Builder From Leftovers",
+    "summary": "Turn leftover ingredients into meal ideas.",
+    "description": "Users input ingredients they already have, and the platform generates recipes to minimize waste. The system can prioritize expiration dates, dietary preferences, and cooking time constraints.",
+    "tags": ["food", "ai", "sustainability"],
+    "createdAt": "2025-05-04T15:10:00.000Z"
+  },
+  {
+    "title": "Apartment Utility Splitter",
+    "summary": "Automatically divide shared household expenses.",
+    "description": "Designed for roommates, this app tracks electricity, water, rent, and shared purchases. It calculates balances automatically and sends reminders for unpaid shares while keeping transparent payment history.",
+    "tags": ["finance", "roommates", "utilities"],
+    "createdAt": "2025-05-05T13:45:00.000Z"
+  },
+  {
+    "title": "Micro Internship Platform",
+    "summary": "Short-term projects for students and career shifters.",
+    "description": "Companies post small projects lasting days or weeks instead of months-long internships. Students and career shifters gain experience faster while employers evaluate talent through real work outputs.",
+    "tags": ["careers", "students", "marketplace"],
+    "createdAt": "2025-05-06T17:25:00.000Z"
+  }
+]
